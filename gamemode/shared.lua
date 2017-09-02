@@ -1,7 +1,5 @@
--- Liro - shared.lua
 
--- Declare gamemode information
-GM.Name = "Liro"
-GM.Author = ""
-GM.Email = ""
-GM.Website = ""
+GM.Name = "Dedition"
+GM.Author = "GlorifiedPig"
+GM.Email = "killingpigs123@gmail.com"
+GM.Website = "https://piggyis.pro/"
