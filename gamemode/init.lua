@@ -19,3 +19,6 @@ AddCSLuaFile("liro/functions.lua")
 -- Include module loader
 include("liro/moduleloader.lua")
 AddCSLuaFile("liro/moduleloader.lua")
+
+resource.AddFile( "resource/fonts/PixelFJVerdana12pt.ttf" )
+resource.AddFile( "materials/dedition_effects/vignette.png" )
