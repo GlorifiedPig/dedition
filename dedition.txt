@@ -1,0 +1,6 @@
+"dedition"
+{
+	"base"		"base"
+	"title"		"Dedition"
+	"menusystem"	"1"
+}
